@@ -1,0 +1,23 @@
+{
+  "name": "are-you-tired-yet",
+  "version": "1.0.0",
+  "description": "Superfluous package to delay project setup",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4nduril/are-you-tired-yet.git"
+  },
+  "keywords": [
+    "javascript-fatigue"
+  ],
+  "author": "Tobias Barth <npm@tobias-barth.net> (https://tobias-barth.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4nduril/are-you-tired-yet/issues"
+  },
+  "homepage": "https://github.com/4nduril/are-you-tired-yet#readme"
+}
